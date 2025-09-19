@@ -1,4 +1,4 @@
-# Proje Adı: Mamografi Görüntülerinin Bilgisayarlı Görü ile Analizi
+#  Mamografi Görüntülerinin Bilgisayarlı Görü ile Analizi
 
 Bu proje, Teknofest 2024 Sağlıkta Yapay Zeka Yarışması için geliştirilmiştir. Proje kapsamında, bilgisayarlı görü teknikleri kullanılarak mamografi görüntülerinin işlenmesi ve analiz edilmesi hedeflenmektedir. BI-RADS kategorilerinin otomatik tahmini ve kitle/kalsifikasyon tespitine yönelik derin öğrenme modelleri geliştirilmiştir.
 
